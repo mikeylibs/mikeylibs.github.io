@@ -1,5 +1,5 @@
+var urlPrefix = "https://cdn.jsdelivr.net/gh/mikeylibs/mikeylibs.github.io@1.0.0";
 window.timerOW = 7000;
-var urlPrefix = "https://cdn.jsdelivr.net/gh/nooboss/noob_libs.github.io@1.0.3";
 
 window.url_js_cs = urlPrefix + "/cs.js";
 

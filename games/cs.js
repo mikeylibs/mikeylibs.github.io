@@ -1,4 +1,4 @@
-var urlPrefix2 = "https://cdn.jsdelivr.net/gh/nooboss/noob_libs.github.io@1.0.3";
+var urlPrefix2 = "https://cdn.jsdelivr.net/gh/mikeylibs/mikeylibs.github.io@1.0.0";
 
 window.url_js_nor = urlPrefix2 + "/nor.js";
 
