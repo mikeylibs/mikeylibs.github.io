@@ -1,6 +1,6 @@
-var urlPrefix2 = "https://cdn.jsdelivr.net/gh/mikeylibs/mikeylibs.github.io@1.0.0";
+var urlPrefix2 = "https://cdn.jsdelivr.net/gh/mikeylibs/mikeylibs.github.io@1.0.1";
 
-window.url_js_nor = urlPrefix2 + "/nor.js";
+window.url_js_nor = urlPrefix2 + "/games/nor.js";
 
 // window.url_js_nor = "../nor.js";
 

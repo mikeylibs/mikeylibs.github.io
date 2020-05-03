@@ -1,10 +1,10 @@
-var urlPrefix = "https://cdn.jsdelivr.net/gh/mikeylibs/mikeylibs.github.io@1.0.0";
+var urlPrefix = "https://cdn.jsdelivr.net/gh/mikeylibs/mikeylibs.github.io@1.0.1";
 window.timerOW = 7000;
 
-window.url_js_cs = urlPrefix + "/cs.js";
+window.url_js_cs = urlPrefix + "/games/cs.js";
 
-window.url_gb_kiki = urlPrefix + "/gb_kiki.js";
-window.url_js_main_kiki = urlPrefix + "/main_kiki.js";
+window.url_gb_kiki = urlPrefix + "/games/gb_kiki.js";
+window.url_js_main_kiki = urlPrefix + "/games/main_kiki.js";
 
 // window.url_js_cs = "../cs.js";
 // window.gb_kiki = "../gb_kiki.js";
