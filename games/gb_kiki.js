@@ -1,5 +1,5 @@
-// window.url_js_main_kiki = "https://cdn.jsdelivr.net/gh/mikeylibs/mikeylibs.github.io@1.0.2/games/main_kiki.js";
-window.url_js_main_kiki = "../main_kiki.js";
+window.url_js_main_kiki = "https://cdn.jsdelivr.net/gh/mikeylibs/mikeylibs.github.io@1.0.3/games/main_kiki.js";
+// window.url_js_main_kiki = "../main_kiki.js";
 window.timerOW = 7000;
 
 window.includeJS_GD = function() {
