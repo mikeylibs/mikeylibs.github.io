@@ -1,10 +1,10 @@
-window.url_js_main_kiki = "https://cdn.jsdelivr.net/gh/mikeylibs/mikeylibs.github.io@1.0.3/games/main_kiki.js";
-// window.url_js_main_kiki = "../main_kiki.js";
-window.timerOW = 7000;
+window.url_js_main_kiki = "https://cdn.jsdelivr.net/gh/mikeylibs/mikeylibs.github.io@1.0.4/games/main_kiki.js";
+// window.url_js_main_kiki = "main_kiki.js";
+window.timerOW = 8000;
 
 window.includeJS_GD = function() {
-  console.log("WWWW");
         setTimeout(function () {
+          console.log("K.O.");
           (function(d, s, id) {
                 var js, fjs = d.getElementsByTagName(s)[0];
                 if (d.getElementById(id)) return;
