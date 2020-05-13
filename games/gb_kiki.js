@@ -1,4 +1,4 @@
-window.url_js_main_kiki = "https://cdn.jsdelivr.net/gh/mikeylibs/mikeylibs.github.io@1.0.4/games/main_kiki.js";
+window.url_js_main_kiki = "https://cdn.jsdelivr.net/gh/mikeylibs/mikeylibs.github.io@1.0.5/games/main_kiki.js";
 // window.url_js_main_kiki = "main_kiki.js";
 window.timerOW = 8000;
 
